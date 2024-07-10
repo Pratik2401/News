@@ -1,0 +1,23 @@
+.card{
+    width: 18rem;
+    height: 25rem;
+    margin: 20px 0;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+
+img{
+    width: 18rem;
+    height: 10rem;
+}
+
+.button{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-left: 4vw;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.col-md-4{
+    width: 290px;
+    padding: 0px;
+    margin: 0px 20px;
+}
+
+.next,.previous{
+    margin-bottom: 15px;
+}
+

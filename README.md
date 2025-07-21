@@ -8,8 +8,8 @@ A sleek, responsive React-based news aggregator built with Vite. This applicatio
 
 - 🗞️ Display latest news using components
 - 🔄 Reusable `NewsItem` component
-- 🔗 Navigation bar (`Navbar`) for smooth transitions
-- 💅 Styled with custom CSS for each component
+- 🔗 Navigation bar (`Navbar`) for smooth transitions and category/country selection
+- 💅 Styled with custom CSS and Bootstrap for each component
 - ⚡ Built using [Vite](https://vitejs.dev/) for lightning-fast development
 
 ---
@@ -19,6 +19,7 @@ A sleek, responsive React-based news aggregator built with Vite. This applicatio
 - **React.js** (Frontend Framework)
 - **Vite** (Build Tool)
 - **CSS** (Styling)
+- **Bootstrap** (UI Components)
 - **ESLint** (Linting)
 
 ---
@@ -38,13 +39,13 @@ npm run dev
 
 ## 🌐 Usage
 
-Once the app is running, it will open in your default browser at:
+Once the app is running, it will open in your browser at:
 
 ```
 http://localhost:5173
 ```
 
-You should see a navigation bar and a list of latest news cards with images, titles, and descriptions.
+You should see a navigation bar and a list of latest news cards with images, titles, and descriptions. Use the navigation bar to switch between news categories and countries.
 
 ---
 
